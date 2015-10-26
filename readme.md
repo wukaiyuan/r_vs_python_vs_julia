@@ -1,4 +1,4 @@
-# ${1:R vs. Python: head to head data analysis – Julia addendum}
+# R vs. Python: head to head data analysis – Julia addendum
 Inspired by this excellent blog post by Vik of Dataquest.io fame:
 https://www.dataquest.io/blog/python-vs-r/
 
